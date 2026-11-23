@@ -29,6 +29,9 @@
 - [Health consultant Lake Mary for weight and wellness](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-lake-mary/health-consultant-lake-mary/): Health consultant Lake Mary: discuss physician-supervised weight and wellness care in Lake Mary. Call Svelte Medical Weight Loss Centers to plan a visit.
 - [Medical clinic Lake Mary for weight care](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-lake-mary/medical-clinic-lake-mary/): Medical clinic Lake Mary: get physician-supervised weight and wellness guidance in Lake Mary. Call Svelte Medical Weight Loss Centers to discuss an appointmen
 
+## Newsroom
+- [Svelte Medical Weight Loss Centers Lake Mary Publishes Hormone Replacement Therapy Guide](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-lake-mary/news/2026-11-23-svelte-medical-weight-loss-centers-lake-mary/): Svelte Medical Weight Loss Centers Lake Mary released a hormone therapy guide, along with a YouTube video, podcast episode and SoundCloud audio. (2026-11-23)
+
 ## Pages
 - [Hormone Replacement Therapy in Lake Mary, Florida](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-lake-mary/): Explore physician-supervised hormone care and personalized wellness services at Svelte Medical Weight Loss Centers in Lake Mary. Call +1407-804-5200.
 - [About Svelte Medical Weight Loss Centers Lake Mary](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-lake-mary/about/): About Svelte Medical Weight Loss Centers Lake Mary, Lake Mary.
@@ -36,4 +39,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-lake-mary/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-lake-mary/news/rss.xml)
 - [Main resource site](https://svelte-hormones-lake-mary.localwebsites.chatgpt.site)
